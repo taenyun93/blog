@@ -2,7 +2,7 @@
   url: "/"
   side: left
   
- - title: "Category"
+- title: "Category"
   url: "/blog/"
   side: left
   dropdown:
@@ -67,7 +67,6 @@
 #    url: "/changelog/"
 #  - title: "Roadmap"
 #    url: "/roadmap/"
-
 - title: "Archive"
   url: "blog/archive/"
   side: left
