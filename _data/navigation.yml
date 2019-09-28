@@ -68,7 +68,7 @@
 #  - title: "Roadmap"
 #    url: "/roadmap/"
 - title: "Archive"
-  url: "/blog/archive/"
+  url: "/archive/"
   side: right
 
 - title: "Search"
